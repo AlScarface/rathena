@@ -402,7 +402,7 @@ alberta,190,173,4	script	Phelix	4_M_03,{
 			close;
 		}
 		mes "[Phelix]";
-		mes "There you go~! As I promised. Try not to stuff yer face.";
+		mes "There you go~! As I promised. Try not to stuff your face.";
 		close;
 	}
 }
